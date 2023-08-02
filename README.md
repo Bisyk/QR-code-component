@@ -1,4 +1,4 @@
-# Link:
+# Link
 https://statuesque-mooncake-1ca8fc.netlify.app/
 
 # Frontend Mentor - QR code component solution
